@@ -1,4 +1,6 @@
 # Hi 👋
+## 📸 About Me
+![Profile Picture](https://github.com/xupy6.png) <!-- 替换为你的头像链接，支持 GitHub 头像/图床链接 -->
 在读大二学生，热爱编程与技术探索。
 - 个人站点：[xupy.top](https://xupy.top)
 ## 🛠️ 技术栈
