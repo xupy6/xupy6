@@ -1,16 +1,13 @@
 # Hi 👋
 ## 📸 About Me
 ![Profile Picture](https://github.com/xupy6.png) <!-- 替换为你的头像链接，支持 GitHub 头像/图床链接 -->
-在读大二学生，热爱编程与技术探索。
+热爱编程与技术探索。
 - 个人站点：[xupy.top](https://xupy.top)
-## 🛠️ 技术栈
-- 编程语言：Python、C
-- 常用工具：Git、VS Code、Pycharm
 
-## 📚 学习方向
-深耕计算机专业知识，探索结合领域。
+## 📚 学习
+Agent | AI | ML | DL |AI4S
 
-## 📫 联系我
+## 📫 联系
 - GitHub：[@xupy](https://github.com/xupy6)
 - Email : xupy666@gmail.com
 ---
