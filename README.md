@@ -82,7 +82,7 @@
 
 - [AutoFin](https://github.com/xupy6/AutoFin)：面向金融场景的自动化分析项目，聚合数据处理、策略分析和可视化流程，帮助快速完成金融数据洞察与报告生成。
 
-- [消失的TA / Relation Slice](https://github.com/xupy6/relation-slice)：聊天记录关系分析与赛博克隆应用，支持多格式导入、OCR、DeepSeek 多 Agent 分析、RAG 对话和可视化报告。
+- [Relation Slice](https://github.com/xupy6/relation-slice)：聊天记录分析与蒸馏克隆，支持多格式导入、多 Agent 分析、RAG 对话和可视化报告。
 
 
 ## Contact
