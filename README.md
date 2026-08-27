@@ -6,7 +6,7 @@
 - 个人站点：[xupy.top](https://xupy.top)
 
 ## 📚 CS 在读
-Agent | AI | ML | DL | AI4S
+Agent | AI4S
 
 ## 📫 联系
 - GitHub：[@xupy](https://github.com/xupy6)
