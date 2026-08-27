@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi, I'm xupy6
+# Hi,
 
-**CS student / Agent developer / AI application builder**
-
-热爱编程、AI Agent、RAG、多模态应用和前后端工程化。  
-目前关注 Agent 编排、LLM 应用、AI4S 和可交互式 AI 产品。
+**CS student / Agent developer / AI Full Stack**
+萌新
+关注 Agent 、LLM 应用、可交互式 AI 产品。
 
 [![Website](https://img.shields.io/badge/Website-xupy.top-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xupy.top)
 [![GitHub](https://img.shields.io/badge/GitHub-xupy6-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xupy6)
@@ -85,15 +84,6 @@
 
 - [消失的TA / Relation Slice](https://github.com/xupy6/relation-slice)：聊天记录关系分析与赛博克隆应用，支持多格式导入、OCR、DeepSeek 多 Agent 分析、RAG 对话和可视化报告。
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xupy6&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xupy6&layout=compact&theme=transparent&hide_border=true)
-
-</div>
 
 ## Contact
 
