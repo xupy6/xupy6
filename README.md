@@ -3,8 +3,8 @@
 # Hi,
 
 **CS student / Agent developer / AI Full Stack**
-萌新
-关注 Agent 、LLM 应用、可交互式 AI 产品。
+- 萌新
+- 关注 Agent 、LLM 应用、可交互式 AI 产品。
 
 [![Website](https://img.shields.io/badge/Website-xupy.top-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xupy.top)
 [![GitHub](https://img.shields.io/badge/GitHub-xupy6-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xupy6)
