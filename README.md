@@ -5,7 +5,7 @@
 **CS student / Agent developer / AI application builder**
 
 热爱编程、AI Agent、RAG、多模态应用和前后端工程化。  
-目前关注 Agent 编排、LLM 应用、AI4S、聊天数据分析和可交互式 AI 产品。
+目前关注 Agent 编排、LLM 应用、AI4S 和可交互式 AI 产品。
 
 [![Website](https://img.shields.io/badge/Website-xupy.top-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xupy.top)
 [![GitHub](https://img.shields.io/badge/GitHub-xupy6-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xupy6)
@@ -67,7 +67,7 @@
 - RAG 应用：文档问答、聊天记忆、检索增强生成、二次重排与兜底策略。
 - LLM 工程化：模型 API 调用、工具调用、Function Calling、提示词工程和结构化输出。
 - 全栈 Web 应用：FastAPI / Flask 后端，React / Vite / Tailwind CSS 前端，前后端联调。
-- 多模态处理：OCR、OpenCV、ASR、聊天记录解析和数据可视化。
+- 数据与多模态处理：NumPy、Pandas、Matplotlib、OpenCV、OCR、ASR、Origin、Excel。
 - 部署与维护：Docker Compose、Nginx、SQLite、本地开发环境和上线准备。
 
 ## Current Interests
@@ -81,10 +81,9 @@
 
 ## Featured Project
 
-### 消失的TA / Relation Slice
+- [AutoFin](https://github.com/xupy6/AutoFin)：面向金融场景的自动化分析项目，聚合数据处理、策略分析和可视化流程，帮助快速完成金融数据洞察与报告生成。
 
-一个聊天记录关系分析与赛博克隆 Web 应用。  
-支持微信聊天记录导入、OCR 解析、DeepSeek 多 Agent 分析、RAG 增强对话、聊天热力图、MBTI 分析和苹果风格液态玻璃 UI。
+- [消失的TA / Relation Slice](https://github.com/xupy6/relation-slice)：聊天记录关系分析与赛博克隆应用，支持多格式导入、OCR、DeepSeek 多 Agent 分析、RAG 对话和可视化报告。
 
 ## GitHub Stats
 
