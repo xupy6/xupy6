@@ -69,20 +69,7 @@
 - 数据与多模态处理：NumPy、Pandas、Matplotlib、OpenCV、OCR、ASR、Origin、Excel。
 - 部署与维护：Docker Compose、Nginx、SQLite、本地开发环境和上线准备。
 
-## Current Interests
 
-- Agentic Workflow
-- GraphRAG and memory systems
-- AI4S
-- Human-AI interaction
-- Personal AI tools
-- Data visualization for AI products
-
-## Featured Project
-
-- [AutoFin](https://github.com/xupy6/AutoFin)：面向金融场景的自动化分析项目，聚合数据处理、策略分析和可视化流程，帮助快速完成金融数据洞察与报告生成。
-
-- [Relation Slice](https://github.com/xupy6/relation-slice)：聊天记录分析与蒸馏克隆，支持多格式导入、多 Agent 分析、RAG 对话和可视化报告。
 
 
 ## Contact
